@@ -29,6 +29,9 @@
                         Your browser does not support the audio element.
                     </audio>
                 </p>
+                <p>
+                Text: {{ question.text }}
+                </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="{{ question.name }}" id="{{ question.name }}_1" value="1" required>
                     <label class="form-check-label" for="{{ question.name }}_1">１（Unsatisfactory）</label>
