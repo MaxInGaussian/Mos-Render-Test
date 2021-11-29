@@ -19,109 +19,109 @@ def main():
                 "title": "生码器１-音频１",
                 "audio_path": "wavs/gt1.wav",
                 "text": "Under the new rule visitors were not allowed to pass into the interior of the prison, but were detained between the grating.",
-                "name": "m1a1"
+                "name": "q1"
             },
             {
                 "title": "生码器１-音频２",
                 "audio_path": "wavs/gt2.wav",
                 "text": "This Commission can recommend no procedures for the future protection of our Presidents which will guarantee security.",
-                "name": "m1a2"
+                "name": "q2"
             },
             {
                 "title": "生码器２-音频１",
                 "audio_path": "wavs/wn1.wav",
                 "text": "Under the new rule visitors were not allowed to pass into the interior of the prison, but were detained between the grating.",
-                "name": "m2a1"
+                "name": "q3"
             },
             {
                 "title": "生码器２-音频２",
                 "audio_path": "wavs/wn2.wav",
                 "text": "This Commission can recommend no procedures for the future protection of our Presidents which will guarantee security.",
-                "name": "m2a2"
+                "name": "q4"
             },
             {
                 "title": "生码器３-音频１",
                 "audio_path": "wavs/3bddm1.wav",
                 "text": "Under the new rule visitors were not allowed to pass into the interior of the prison, but were detained between the grating.",
-                "name": "m3a1"
+                "name": "q5"
             },
             {
                 "title": "生码器３-音频２",
                 "audio_path": "wavs/3bddm2.wav",
                 "text": "This Commission can recommend no procedures for the future protection of our Presidents which will guarantee security.",
-                "name": "m3a2"
+                "name": "q6"
             },
             {
                 "title": "生码器４-音频１",
                 "audio_path": "wavs/7bddm1.wav",
                 "text": "Under the new rule visitors were not allowed to pass into the interior of the prison, but were detained between the grating.",
-                "name": "m4a1"
+                "name": "q7"
             },
             {
                 "title": "生码器４-音频２",
                 "audio_path": "wavs/7bddm2.wav",
                 "text": "This Commission can recommend no procedures for the future protection of our Presidents which will guarantee security.",
-                "name": "m4a2"
+                "name": "q8"
             },
             {
                 "title": "生码器５-音频１",
                 "audio_path": "wavs/mel1.wav",
                 "text": "Under the new rule visitors were not allowed to pass into the interior of the prison, but were detained between the grating.",
-                "name": "m5a1"
+                "name": "q9"
             },
             {
                 "title": "生码器５-音频２",
                 "audio_path": "wavs/mel2.wav",
                 "text": "This Commission can recommend no procedures for the future protection of our Presidents which will guarantee security.",
-                "name": "m5a2"
+                "name": "q10"
             },
             {
                 "title": "生码器６-音频１",
                 "audio_path": "wavs/glow1.wav",
                 "text": "Under the new rule visitors were not allowed to pass into the interior of the prison, but were detained between the grating.",
-                "name": "m6a1"
+                "name": "q11"
             },
             {
                 "title": "生码器６-音频２",
                 "audio_path": "wavs/glow2.wav",
                 "text": "This Commission can recommend no procedures for the future protection of our Presidents which will guarantee security.",
-                "name": "m6a2"
+                "name": "q12"
             },
             {
                 "title": "生码器７-音频１",
                 "audio_path": "wavs/12bddm1.wav",
                 "text": "Under the new rule visitors were not allowed to pass into the interior of the prison, but were detained between the grating.",
-                "name": "m7a1"
+                "name": "q13"
             },
             {
                 "title": "生码器７-音频２",
                 "audio_path": "wavs/12bddm2.wav",
                 "text": "This Commission can recommend no procedures for the future protection of our Presidents which will guarantee security.",
-                "name": "m7a2"
+                "name": "q14"
             },
             {
                 "title": "生码器８-音频１",
                 "audio_path": "wavs/hifi1.wav",
                 "text": "Under the new rule visitors were not allowed to pass into the interior of the prison, but were detained between the grating.",
-                "name": "m8a1"
+                "name": "q15"
             },
             {
                 "title": "生码器８-音频２",
                 "audio_path": "wavs/hifi2.wav",
                 "text": "This Commission can recommend no procedures for the future protection of our Presidents which will guarantee security.",
-                "name": "m8a2"
+                "name": "q16"
             },
             {
                 "title": "生码器９-音频１",
                 "audio_path": "wavs/diff1.wav",
                 "text": "Under the new rule visitors were not allowed to pass into the interior of the prison, but were detained between the grating.",
-                "name": "m9a1"
+                "name": "q17"
             },
             {
                 "title": "生码器９-音频２",
                 "audio_path": "wavs/diff2.wav",
                 "text": "This Commission can recommend no procedures for the future protection of our Presidents which will guarantee security.",
-                "name": "m9a2"
+                "name": "q18"
             },
         ]
     )
